@@ -14,7 +14,7 @@ use constant STORE_ROUTINE =>  4;
 use constant CHANGED       =>  5;
 use constant OPTIMIZATION  =>  6;
 
-$VERSION = '0.09';
+$VERSION = '0.10';
 
 BEGIN { *NEXTKEY = \&_FetchKey };
 

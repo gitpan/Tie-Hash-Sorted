@@ -50,7 +50,12 @@
 
 
 0.07	2003-09-11 18:00:00 GMT
-	- Released to CPAN incorrectly, forgot 'make dist'
+	- Released to CPAN incorrectly
+		- Built tar ball by hand - yay 'make dist'
 
 0.08	2003-09-11 19:30:00 GMT
-	- Version change only to properly release to CPAN
+	- Released to CPAN incorrectly
+		- Building on different platforms borked - yay dos2unix
+
+0.09	2003-09-11 19:45:00 GMT
+	- Released to CPAN

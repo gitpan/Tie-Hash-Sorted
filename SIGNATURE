@@ -1,0 +1,32 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.35.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It would check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 281d74c470ab6ea66940e5ee0514bd9bd71c35f2 Changes
+SHA1 8f232490dd4381b4940a5dd3bb87aa0a50dc5f28 LICENSE
+SHA1 a8a8a5400ce5a5c6954e769f059047c8159333b0 MANIFEST
+SHA1 898b390e2f64a8953f5c703a0710dcc7ed5a1bfa MANIFEST.SKIP
+SHA1 068be6f337e72c9e8e5f9fb441849acee07d7001 META.yml
+SHA1 4ca848f823995138df21c7087c14ed67ad93de92 Makefile.PL
+SHA1 43c861d744993684c3030f5e8a25274d6116c14e README
+SHA1 a220b4a2a97470dffe13437546ad0578695ed4bc Sorted.pm
+SHA1 a620ce6cab5920bbc0ee2ab522c7785580146923 test.pl
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.3 (MingW32)
+
+iD8DBQE/YMul6xgUnxcgPy8RAokBAJ9k3LoulNcgBkU4SO5Sf2u3zOxYRACeMXOz
+ufCbRzHc8E4X4A9+LRPW2IE=
+=RHw9
+-----END PGP SIGNATURE-----

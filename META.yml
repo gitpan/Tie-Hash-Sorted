@@ -1,0 +1,13 @@
+#XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
+name:         Tie-Hash-Sorted
+version:      0.08
+version_from: Sorted.pm
+installdirs:  site
+requires:
+    Carp:                          0
+    strict:                        0
+    UNIVERSAL:                     0
+    vars:                          0
+
+distribution_type: module
+generated_by: ExtUtils::MakeMaker version 6.13
